@@ -1,0 +1,29 @@
+.page-wrapper {
+    display: grid;
+	grid-template-columns: 20% 40% 50%;
+}
+
+.wrapper {
+    border: 2px solid white ;
+}
+
+#css-zen-garden {
+    background-image: url("https://images.contentstack.io/v3/assets/bltdd99f24e8a94d536/bltcb89cfc7407f98ce/61dc51b9dbd06039fdcf7d79/Galentine_3.jpg");
+    
+}
+
+h1 {
+    padding-bottom: 1em;
+    font-size: 30px;
+    border: 2px solid white ;
+    position: relative;
+    top: -25px;
+}
+
+.mainsupporting {
+    border: 2px solid white ;
+}
+
+.intro {
+    border: 2px solid white ;
+}
