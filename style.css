@@ -4,26 +4,47 @@
 }
 
 .wrapper {
-    border: 2px solid white ;
+    border: 2px solid yellow ;
 }
 
 #css-zen-garden {
     background-image: url("https://images.contentstack.io/v3/assets/bltdd99f24e8a94d536/bltcb89cfc7407f98ce/61dc51b9dbd06039fdcf7d79/Galentine_3.jpg");
-    
+    background-size: cover;
 }
 
 h1 {
     padding-bottom: 1em;
     font-size: 30px;
-    border: 2px solid white ;
+    border: 2px solid blueviolet ;
     position: relative;
     top: -25px;
+    color: purple;
+    
+}
+
+h2 {
+    color: blue;
+    
+}
+
+h3 {
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .mainsupporting {
-    border: 2px solid white ;
+    border: 2px solid green ;
 }
 
 .intro {
-    border: 2px solid white ;
+    border: 2px solid blue ;
+}
+
+p {
+    color: white;
+}
+
+p::first-letter {
+    font-size: 30px;
 }
