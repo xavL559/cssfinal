@@ -1,0 +1,89 @@
+#css-zen-garden {
+    background-image:url("giphy.gif");
+    background-size: cover;
+}
+
+.design-selection {
+    float: left;
+    width: 20%;
+   position: relative;
+   top: -1300px;
+   right: -100px;
+   border: 2px solid white;
+}
+
+.intro {
+    text-align: center;
+    width: 40%;
+    position: relative;
+    right: -500px;
+    float: left;
+    border-top: 2px solid white;
+   
+}
+
+.mainsupporting {
+    text-align: center;
+    width: 40%;
+    position: relative;
+    right: -500px;
+    border: 2px solid white;
+    
+}
+
+p {
+   color: white;
+}
+
+a {
+    color: purple;
+}
+
+.design-archives {
+    color: white;
+    float: right;
+    position: relative;
+   top: -1400px;
+   left: -400px;
+   border: 2px solid white;
+   padding: 1.5em;
+   
+}
+
+.zen-resources {
+    color: white;
+    float: right;
+    position: relative;
+   top: -1150px;
+   left: -180px;
+   border: 2px solid white;
+}
+
+.select {
+    color: white;
+}
+
+h3 {
+    color: purple;
+    font-size: 20px;
+}
+
+h2 {
+    color: purple;
+}
+
+h1 {
+    color: purple;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.design-selection {
+    color: white;
+}
+
+p::first-letter {
+    font-size: 20px;
+}
